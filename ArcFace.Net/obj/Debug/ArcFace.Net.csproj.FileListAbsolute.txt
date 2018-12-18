@@ -1,0 +1,6 @@
+F:\git\人脸识别\ArcFace.Net\ArcFace.Net\obj\Debug\ArcFace.Net.csproj.CoreCompileInputs.cache
+F:\git\人脸识别\ArcFace.Net\ArcFace.Net\bin\Debug\ArcFace.Net.pdb
+F:\git\人脸识别\ArcFace.Net\ArcFace.Net\obj\Debug\ArcFace.Net.pdb
+F:\git\人脸识别\ArcFace.Net\ArcFace.Net\bin\Debug\ArcFace.Net.exe.config
+F:\git\人脸识别\ArcFace.Net\ArcFace.Net\bin\Debug\ArcFace.Net.exe
+F:\git\人脸识别\ArcFace.Net\ArcFace.Net\obj\Debug\ArcFace.Net.exe
